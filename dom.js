@@ -41,7 +41,7 @@ btnResumen.addEventListener("click",(e) => {
 
 function Borrar(){
 cantidad.value="";
-categoria.value= "Sin categoria";
+categoria.value= "";
 totalAPagar.textContent=(`Total a Pagar: $ `);
 
 }
